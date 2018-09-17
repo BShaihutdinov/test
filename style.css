@@ -1,0 +1,36 @@
+.red-text {
+    color: red;
+}
+
+p {
+    font-size: 16px;
+    font-family: monospace;
+}
+
+h2 {
+    font-family: Lobster, monospace;
+}
+
+.smaller-image {
+    width: 100px;
+}
+
+.thick-green-border {
+    border-style: solid;
+    border-width: 10px;
+    border-color: green;
+    border-radius: 50%;
+}
+
+.silver-background {
+    background-color: silver;
+
+}
+
+#cat-photo-form {
+    background-color: green;
+}
+
+[type='checkbox'] {
+    margin-top: 20px;
+}
