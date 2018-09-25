@@ -1,36 +1,55 @@
-.red-text {
-    color: red;
+h1{
+font-size: 68px;
+font-weight: 800;
 }
+
+h2{
+font-size: 52px;
+font-weight: 600;
+}
+
+h3{
+font-size: 40px;
+font-weight: 500;
+}
+
+h4{
+font-size: 32px;
+font-weight: 400;
+}
+
+h5
+{
+font-size: 21px;
+font-weight: 300;
+}
+
+h6{
+    font-size: 14px;
+    font-weight: 200;
+}
+
 
 p {
-    font-size: 16px;
-    font-family: monospace;
-}
-
-h2 {
-    font-family: Lobster, monospace;
-}
-
-.smaller-image {
-    width: 100px;
-}
-
-.thick-green-border {
-    border-style: solid;
-    border-width: 10px;
-    border-color: green;
-    border-radius: 50%;
-}
-
-.silver-background {
-    background-color: silver;
+    margin-top: 1px;
+    padding: 1px;
 
 }
 
-#cat-photo-form {
-    background-color: green;
+.links {
+    margin-right: 20px;
+
 }
 
-[type='checkbox'] {
-    margin-top: 20px;
+.fullCard {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 0px;
+    width: 245px;
+}
+
+.cardContent {
+    padding: 10px;
+    margin: 1px;
 }
